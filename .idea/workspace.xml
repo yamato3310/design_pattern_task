@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e295238c-2a74-48c5-a437-1ca5833d363b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d6qa8Xt6cyMZrXeOvO9nK5qnSI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e295238c-2a74-48c5-a437-1ca5833d363b" name="Default Changelist" comment="" />
+      <created>1591755950241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591755950241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2614" y="447" width="522" height="183" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1591756004596">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2614" y="447" width="522" height="183" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591756004596" />
+    <state x="2729" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591755981590">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2729" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591755981590" />
+    <state x="2463" y="197" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1591755978009">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2463" y="197" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591755978009" />
+    <state x="2630" y="280" key="FileChooserDialogImpl" timestamp="1591756080223">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2630" y="280" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591756080223" />
+    <state x="2124" y="263" width="1501" height="552" key="new project wizard" timestamp="1591756091559">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2124" y="263" width="1501" height="552" key="new project wizard/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591756091559" />
+  </component>
+</project>
